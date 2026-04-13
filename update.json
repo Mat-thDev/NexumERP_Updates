@@ -1,0 +1,11 @@
+{
+  "version": "1.2.0",
+  "changelog": "• Correções no caixa\n• Melhorias no estoque",
+  "pub_date": "2026-04-12T18:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K2JPbjNGeU5HaWNxMW9tbEpYOWVEcTlaUzRWMDhVOExRM0RSdXlWeCt6WE5Pc3VQVFRQTlZFcDdFMUlWNlZzdGQxeGxDbTB2MEMvT1BXRXpQVGRmM3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDQ5NjIzCWZpbGU6TmV4dW1fMS4yLjBfeDY0X2VuLVVTLm1zaQo0YmtUblBoand1ZlBVRkdqSUJ2c3U3SWlOVEVXVS9qVHhxSDJ2SHN2Rk13VVA5RmN3VG45M3NxdjBTeDVoMlBZVm0vVk1CYUJRWjN0MWJjNW5WTEJCUT09Cg==",
+      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.0/Nexum_1.2.0_x64_en-US.msi"
+    }
+  }
+}
