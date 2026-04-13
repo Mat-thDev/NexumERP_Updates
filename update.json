@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
-  "changelog": "• Correções no caixa\n• Melhorias no estoque",
-  "pub_date": "2026-04-12T18:00:00Z",
+  "version": "1.2.6",
+  "changelog": "• Minor Fixes",
+  "pub_date": "2026-04-13T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K2JPbjNGeU5HaWNxMW9tbEpYOWVEcTlaUzRWMDhVOExRM0RSdXlWeCt6WE5Pc3VQVFRQTlZFcDdFMUlWNlZzdGQxeGxDbTB2MEMvT1BXRXpQVGRmM3drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDQ5NjIzCWZpbGU6TmV4dW1fMS4yLjBfeDY0X2VuLVVTLm1zaQo0YmtUblBoand1ZlBVRkdqSUJ2c3U3SWlOVEVXVS9qVHhxSDJ2SHN2Rk13VVA5RmN3VG45M3NxdjBTeDVoMlBZVm0vVk1CYUJRWjN0MWJjNW5WTEJCUT09Cg==",
-      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.0/Nexum_1.2.0_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K2Y3U1I5a202d3A5YVFBT2p5NFk5cEtYdHlZRUFiT09OMWRkVTY5OGlCQnY4b1dHMmx4RUxIN3FOeE9uSWQ5TGhNMHExb3RZU1NlTjJ5c1Vid0Y0a0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTExNTk1CWZpbGU6TmV4dW1fMS4yLjZfeDY0X2VuLVVTLm1zaQpHRXEyMXhLcVQ3bUN5a0tyQ290YVVCc3FoNXg3RXNmTS9FMDVaaDBLcmFOSk0yUCtDdGU4L09MbHVsYjl0WkF6MEd0TC9iZXRBSklHYnVGdlZiLzJEdz09Cg==",
+      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.6/Nexum_1.2.6_x64_en-US.msi"
     }
   }
 }
