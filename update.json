@@ -1,11 +1,11 @@
 {
-  "version": "1.2.9",
+  "version": "1.2.10",
   "changelog": "======= Changelog Nexum ERP =======\n\n✨ Melhorias de Interface (UI/UX)\n- Ajustes visuais e refinamentos gerais na experiência do usuário\n\n🧠 Correções de Lógica\n- Corrigidos problemas relacionados ao fluxo de caixa (Cashflow)\n\n📦 Estoque\n- Otimização da lógica de gerenciamento de estoque\n- Implementação de paginação para melhor performance e usabilidade\n\n🧱 Pedidos / Orçamentos\n- Refatoração completa do sistema de itens\n- Melhor consistência e independência dos dados dos itens\n",
-  "pub_date": "2026-04-15T18:00:00Z",
+  "pub_date": "2026-04-16T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K1E5L28wYnFxVFhxZ0Rla1htT2Y4Rld2Q2RObFVLSmRuVjV1ZE5kbkZXRVZMTXYyV3JocTVnQXVzei90S29pcFBqdUlwbmFBZy8wSW5Yc1dVK2RuSVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mjg1NjE1CWZpbGU6TmV4dW1fMS4yLjlfeDY0X2VuLVVTLm1zaQp0UjdSZjUzazdpOC9MbGpoS2IxN0F2SXAvcXBCVTRKNEl6S3BZTVppTFA0cXIxMFFtcXR1MDB6bWNPMGtRSnl0eGZzODNQRm8veW01ekFoOU84bGhBZz09Cg==",
-      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.9/Nexum_1.2.9_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K1Zncjd0TEZjWkt4RUtkTUF2RW9ZaUE0Y3Q3RnZ3RWxwbVU0Ynd3MjJyZ0RPQlJocWp4Q2tNbDNNZmF2MTdPckl3QUh2Y0pOU2hqRy9Na3hMOUIwRGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzY1MjA0CWZpbGU6TmV4dW1fMS4yLjEwX3g2NF9lbi1VUy5tc2kKUkF6TXlWMkNNSWFQb3VTK3lLcXlOK25rNVBBZSs0bjhCOVJocU93Q1R6WVNNNUNhYVlmRTBVZm9GWFRMQTdiUFBhb2RDUU5uVHJhSDZ1dmV3SG5iQUE9PQo=",
+      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.10/Nexum_1.2.10_x64_en-US.msi"
     }
   }
 }
