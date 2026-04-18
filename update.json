@@ -1,11 +1,11 @@
 {
-  "version": "1.2.15",
+  "version": "1.2.16",
   "changelog": "Item validation error fix.",
   "pub_date": "2026-04-18T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K1dQay9nOTlzTGhjQXBrQk1MVVR2L0ZQZW1PY2kwK3FKUU5WeHNPMFhYaWJrRTdyZy9kUTRYcThMbnhibmxqN3FoUTJudml0ZUtNY3Fnb1cvZ1dqQ3cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTQ2NTMzCWZpbGU6TmV4dW1fMS4yLjE1X3g2NF9lbi1VUy5tc2kKNTU3cGdkQjMxeXE5aEtwbjZQR3AzMVNRdEFOM2Q1eXN4SnpJaWNzL0VuR3hheVA4QUpPZzg4VUxDcWdLUUlnWFhwbVVFOXVOWTdoWEVXWTlsdjR5QkE9PQo=",
-      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.15/Nexum_1.2.15_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K1NpQ1hCOVUwaUVqSTZ4ZytiRFhpTUltR1NOSC9uc3Q4S2JWcTBCcXZLQXE5ajc2ei9ab3dCYVZwSW8ydVJ1RmtmQzgvSEhxdlUrOTdmS2FJMUswcEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTQ4MTUxCWZpbGU6TmV4dW1fMS4yLjE2X3g2NF9lbi1VUy5tc2kKak5sbmJoNEIzZFovSS9sYmt5cVlEU0UzTEhhMXB3ak1BUTVIUzFsOXorRWVZa25rTW9RK2lCVnhKcGpuTUVmUnA3b1VHY2VOdUFqUFNjQ0RIclZvQ0E9PQo=",
+      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.16/Nexum_1.2.16_x64_en-US.msi"
     }
   }
 }
