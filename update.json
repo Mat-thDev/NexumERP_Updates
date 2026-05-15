@@ -1,11 +1,11 @@
 {
-  "version": "1.2.20",
-  "changelog": "Minor UI Fixes and Improvments.",
-  "pub_date": "2026-04-25T18:00:00Z",
+  "version": "1.2.21",
+  "changelog": "======= Changelog Nexum ERP =======\n\n- Melhorado a UI para maior facilidade ao observar informações\n\n- Resolvido erros quanto as relatório\n\n- Melhorado UX adicionando atalhos a novas rotas",
+  "pub_date": "2026-05-15T18:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K2JEVkdXZzRySlE3MFZkUnd4cERESG5xQ2sza0lJdHFpaGg3THVEeUpEL21jNUxGL0xHUEE3Tm4rdHVjRmNhSXdwMGthRkZPby80MWV1d2Y3Q1Vtb0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTM0Mjk4CWZpbGU6TmV4dW1fMS4yLjIwX3g2NF9lbi1VUy5tc2kKeTVHYjhCMEowSzFmWmxuMG02KzFjeFlzMmVMQUhxUkFqM2RyUGp2ODYvNGd5Q2hJKzBrd0U5NUlFRjg2Qkx1TW1uSnhlNFFTRkxKaGpnRkpIYk8wRHc9PQo=",
-      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.20/Nexum_1.2.20_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRMnNnSkk3TGE3K1grbnI1K0NrSXhiaWF2QmtHM2tYNkdtMHpyVDN0cGw0VUxzTFo3VEVSTFhjbG02TlI0MFFlQkJ4K1FjSk5FYU9vOWpoZndaR05pZWZFUmJKZ3VLNVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4ODU0MjI0CWZpbGU6TmV4dW1fMS4yLjIxX3g2NF9lbi1VUy5tc2kKZUhZeHJhYW5aQVQxaTc4NEMxV3FSWWJoUzBVcWxJWnRLMlNxRTZERUVITm5kdlJEUUxETGVmaHRYdU1abzd4UithVk1abUZOcUhoM1VGWFZueVRPQ2c9PQo=",
+      "url": "https://github.com/Mat-thDev/NexumERP_Updates/releases/download/1.2.21/Nexum_1.2.21_x64_en-US.msi"
     }
   }
 }
